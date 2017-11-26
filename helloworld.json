@@ -1,0 +1,9 @@
+{
+"app": {
+  "name": "Hello World",
+  "view": {
+    "text": "Hello World",
+    "textInput": "Enter Text Here"
+  }
+}
+}
